@@ -1,1 +1,1 @@
-This is the projects that I did coming from Intellij. I think I made mistakes on pushing it to Github. The 5th miniProject folder wasn't fully pushed. yet in Intellij there are no more to commit. I'm not good yet with the version control but I'll learn more and Improve in the coming weeks. 
+This is the projects that I did coming from Intellij. 
